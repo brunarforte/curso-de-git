@@ -1,0 +1,1 @@
+A principal diferença do GIT em relação à outros sistemas de versionamento é que ele permite que a da sua cópia de trabalho e o que vai ser salvo pelo git possam ser diferentes, através da área de seleção. Os conceitos de trunk, branches e tags existem em outros sistemas de versionamento. 
